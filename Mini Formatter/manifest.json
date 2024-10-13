@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Mini Formatter",
+  "version": "21.0",
+  "description": "Format CSS, HTML, and JS code without Prettier.",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png",
+      "128": "assets/icons/icon128.png"
+    },
+    "icons": {
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png",
+      "128": "assets/icons/icon128.png"
+    }
+  }
+}
